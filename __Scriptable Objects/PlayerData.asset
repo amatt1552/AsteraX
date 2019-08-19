@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34788bbac1affac40aeac0ccffd9f5bb, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  shipTurrets:
+  - {fileID: 1058964074447046, guid: 8e30bba7ea392274bb56e88c8ba8f11f, type: 2}
+  - {fileID: 1302078508834978, guid: f493144b595684db28261f187ec7a91d, type: 2}
+  - {fileID: 1692645853596478, guid: c82813788dace4f3db85043080284fee, type: 2}
+  - {fileID: 1353267872351220, guid: 80ea39e2d62c745a5ba9cf6d35dbfaa8, type: 2}
+  shipBodies:
+  - {fileID: 1472542294352466, guid: 2a4573fd70efa094d84f72d5723ef9a6, type: 2}
+  - {fileID: 1347799718326292, guid: a96ad7905a5794a119fc82f075c53d81, type: 2}
+  - {fileID: 1479205242234512, guid: 095f6770c7dea47a985126995fcce71f, type: 2}
+  - {fileID: 1938124355550624, guid: 0345fef261298453baac93b577b502c1, type: 2}
+  jumpEffects:
+  - {fileID: 198174643775634146, guid: b43b456b297bd74459df1f64d92850a5, type: 2}
